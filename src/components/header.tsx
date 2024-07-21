@@ -384,7 +384,7 @@ const Project = () => {
           
           <p className="text-gray-600 max-w-3xl">
             All the necessary specialists - from a designer to a tester - are on our staff. We hire
-            the best specialists in the market. It's expensive but worth it
+            the best specialists in the market. Its expensive but worth it
           </p>
         </div>
       </section>
