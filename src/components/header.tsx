@@ -397,7 +397,6 @@ const Footer = () => {
         <div className="container mx-auto">
           <div className="flex justify-center mb-8">
             <div className="flex items-center">
-              <img src="/images/image.png" className="h-10 w-10 mr-2" alt="Company Logo" />
               <div>
                 <h3 className="text-xl font-bold text-cyan-300">MY COMPANY</h3>
                 <p className="text-xs">DEMO COMPANY</p>
